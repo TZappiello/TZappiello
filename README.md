@@ -6,9 +6,9 @@
 
 
 <div>
-  <a href="https://github.com/zallih">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TZappiello&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TZappiello&layout=compact&langs_count=7&theme=cobalt"/>
+  <a href="https://github.com/TZappiello">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TZappiello&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TZappiello&layout=compact&langs_count=7&theme=merko"/>
 </div>
 
 
@@ -22,6 +22,5 @@
   
   
   ![Snake animation](https://github.com/TZappiello/TZappiello/blob/output/github-contribution-grid-snake.svg)
-
 </div>
 
