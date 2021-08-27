@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Thiago Zappiello
 
 - 👀 Estou interessado em novas tecnologias
-- 💻 Estagiando na <a href="castgroup.com.br">Cast Group</a>
+- 💻 Estagiando na <a href="https://www.castgroup.com.br">Cast Group</a>
 
 <div>
   <a href="https://github.com/TZappiello">
