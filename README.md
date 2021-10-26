@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Thiago Zappiello
 
 - 👀 Estou interessado em novas tecnologias
-- 💻
+- 💻 Turma de Formação Java na. https://www.castgroup.com.br/pt/
 
 <div>
   <a href="https://github.com/TZappiello">
