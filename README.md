@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Thiago Zappiello
-<h1>Bem-vindo ao meu perfil do GitHub!</h1>
+<h4>Bem-vindo ao meu perfil do GitHub!</h4>
 
 - 👀 Estou interessado em novas tecnologias
 - 💻 Programador de Sistema na <a href="https://www.castgroup.com.br/pt/">CastGroup</a>
