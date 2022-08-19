@@ -11,8 +11,9 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TZappiello&layout=compact&langs_count=7&theme=merko"/>
     </p>
     </div>
+     <p>Técnologias e Ferramentas:</p>
 <div style="display: inline_block"><br>
-  <p style= color:red>Técnologias e Ferramentas:</p>
+ 
   <img align="center" alt="tzappiello-JAVA" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="tzappiello-Python" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png">
   <img align="center" alt="tzappiello-Portugol" height="40" width="40" src="http://lite.acad.univali.br/portugol/assets/img/logo.png">
