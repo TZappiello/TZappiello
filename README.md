@@ -4,6 +4,8 @@
 - 👀 Estou interessado em novas tecnologias
 - 💻 Programador de Sistema na <a href="https://www.castgroup.com.br/pt/">CastGroup</a>
 
+     <p>Técnologias e Ferramentas:</p>
+
 <div>
   <a href="https://github.com/TZappiello">
    <p align="middle"> 
@@ -11,7 +13,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TZappiello&layout=compact&langs_count=7&theme=merko"/>
     </p>
     </div>
-     <p>Técnologias e Ferramentas:</p>
 <div style="display: inline_block"><br>
  
   <img align="center" alt="tzappiello-JAVA" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
