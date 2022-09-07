@@ -21,7 +21,7 @@
   <img align="center" alt="tzappiello-JavaScript" height="40" width="40" src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png">
    <img align="center" alt="tzappiello-Angular" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg">
   <img align="center" alt="tzappiello-Python" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png">
-  <img align="center" alt="tzappiello-Spring" height="40" width="40" src="https://www.logo.wine/a/logo/Spring_Framework/Spring_Framework-Logo.wine.svg">
+  <img align="center" alt="tzappiello-Spring" height="40" width="40" src="https://www.clipartmax.com/png/full/354-3543373_spring-framework-logo-svg-png-download-java-spring.png">
 
   
 </div>
