@@ -15,7 +15,7 @@
     </div>
 <div style="display: inline_block"><br>
       <div>
-            <span>Técnologias e Ferramentas:</span>
+            <label>Técnologias e Ferramentas:</label>
       </div>   
   <img align="center" alt="tzappiello-JAVA" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="tzappiello-JavaScript" height="40" width="40" src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png">
@@ -34,7 +34,7 @@
 
  <!-- <a href="https://www.facebook.com/profile.php?id=100011371610603" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="blank"></a> -->
 
- <a> <a href="https://www.linkedin.com/in/thiago-zappiello/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </a>
+<a href="https://www.linkedin.com/in/thiago-zappiello/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   
   ![Snake animation](https://github.com/TZappiello/TZappiello/blob/output/github-contribution-grid-snake.svg)
