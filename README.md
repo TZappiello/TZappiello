@@ -18,8 +18,9 @@
             <span>Técnologias e Ferramentas:</span>
       </div>   
   <img align="center" alt="tzappiello-JAVA" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="tzappiello-JavaScript" height="40" width="40" src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png">
   <img align="center" alt="tzappiello-Python" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png">
-  <img align="center" alt="tzappiello-Portugol" height="40" width="40" src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png">
+
   
 </div>
 
