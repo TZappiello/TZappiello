@@ -18,7 +18,7 @@
             <label>Técnologias e Ferramentas:</label>
       </div>   
   <img align="center" alt="tzappiello-JAVA" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="tzappiello-JavaScript" height="45" width="50" src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png">
+  <img align="center" alt="tzappiello-JavaScript" height="40" width="40" src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png">
    <img align="center" alt="tzappiello-Angular" height="45" width="50" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg">
   <img align="center" alt="tzappiello-Python" height="45" width="50" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png">
   <img align="center" alt="tzappiello-Spring" height="45" width="50" src="https://www.clipartmax.com/png/full/354-3543373_spring-framework-logo-svg-png-download-java-spring.png">
