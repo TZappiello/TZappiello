@@ -2,7 +2,7 @@
 <h3>Bem-vindo ao meu perfil do GitHub!</h3>
 
 - 👀 Estou interessado em novas tecnologias
-- 💻 Programador de Sistema na <a href="https://www.castgroup.com.br/pt/">CastGroup</a>
+- 💻 Programador de Sistema na <a href="https://www.castgroup.com.br">CastGroup</a>
 
      
 
