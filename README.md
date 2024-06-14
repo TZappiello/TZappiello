@@ -5,7 +5,7 @@
 - 💻 Me Chamo Thiago Zappiello <br>
 - 👩🏽‍💻 Atualmente atuo como desenvolvedor backend na empresa [CastGroup](https://www.castgroup.com.br/) <br>
 - 📖 Formado em Análise e Desenvolvimento de Sistemas  
-- 🎓 Estudando na <a href="https://cursos.dankicode.com/">Danki.Code</a> e na <a href="https://b7web.com.br/">B7Web</a>  
+- 🎓 Sempre buscando aprimorar meus conhecimentos em tecnologia  
 </div>
 
 <br><br>
@@ -20,7 +20,7 @@
 </div>
 
 <div>
-    <img align="right" alt="TZappiello" width="250" src="https://cdn.discordapp.com/attachments/1128416328215167096/1157426294619918428/octocat-1696022322086.png?ex=65eb80bc&is=65d90bbc&hm=b83857b7109779a00ebd6efaca93ed0e1443f7431d229fd4692239daecdef55a&">
+
   <h3> 🧐 Skills</h3>
   <a href="https://github.com/TZappiello">
   <img align="center" alt="TZappiello-JAVA" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
@@ -35,7 +35,7 @@
     <img align="center" alt="TZappiello-WP" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Wordpress_Blue_logo.png">
     </a>
 <br><br>
-<h3>💜 Redes Sociais</h3>
+<h3>👨‍💻 Redes Sociais</h3>
   <a href="https://www.facebook.com/laila.zappiello.5/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="blank"></a> 
   <a href="[https://www.linkedin.com/in/thiago-zappiello/](https://www.linkedin.com/in/thiago-zappiello/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <br><br>  
