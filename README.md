@@ -24,7 +24,7 @@
   <h3> 🧐 Skills</h3>
   <a href="https://github.com/TZappiello">
   <img align="center" alt="TZappiello-JAVA" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="TZappiello-Angular" height="40" width="40" src="https://cdn.confluent.io/wp-content/uploads/spring.png">
+  <img align="center" alt="TZappiello-Spring-Boot" height="40" width="40" src="https://miro.medium.com/v2/resize:fit:624/1*dwa1SCG85BAzQttURVUvrA.png">
   <img align="center" alt="TZappiello-Angular" height="40" width="40" src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg">
   
 <!--   <img align="center" alt="TZappiello-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> -->
