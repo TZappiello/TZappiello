@@ -25,6 +25,7 @@
   <a href="https://github.com/TZappiello">
   <img align="center" alt="TZappiello-JAVA" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="TZappiello-Angular" height="40" width="40" src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg">
+  <img align="center" alt="TZappiello-Angular" height="40" width="40" src="https://www.adm.ee/wordpress/wp-content/uploads/2023/12/Spring-768x512.png">
 <!--   <img align="center" alt="TZappiello-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> -->
 <!--   <img align="center" alt="zalli-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> -->
   <img align="center" alt="TZappiello-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
