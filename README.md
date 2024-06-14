@@ -3,9 +3,9 @@
 <div>
 <img align="right" alt="zallih" width="135" src="https://cdn.discordapp.com/attachments/1128416328215167096/1157425285344534678/download20230905181423.png?ex=65eb7fcb&is=65d90acb&hm=fa8e5ecfad17ea5a07b2020e5360c14e4d9ade83c4488bcaf1adf0dd8b58a12f&">
   
-- 💻 Me Chamo Laila Zappiello e tenho 17 anos <br>
-- 👩🏽‍💻 Atualmente estou estudando criação de jogos & Angular<br>
-- 📖 Estudanto na Etec Presidente Vargas cursando Eletrônica  
+- 💻 Me Chamo Thiago Zappiello <br>
+- 👩🏽‍💻 Atualmente atuo como desenvolvedor backend na empresa [CastGroup](https://www.castgroup.com.br/) <br>
+- 📖 Formado em Análise e Desenvolvimento de Sistemas  
 - 🎓 Estudando na <a href="https://cursos.dankicode.com/">Danki.Code</a> e na <a href="https://b7web.com.br/">B7Web</a>  
 </div>
 
