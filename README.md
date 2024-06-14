@@ -1,14 +1,5 @@
  <!-- <a href="https://www.facebook.com/profile.php?id=100011371610603" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="blank"></a> -->
 
-<a href="https://www.linkedin.com/in/thiago-zappiello/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
- ![Snake animation](https://github.com/TZappiello/TZappiello/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-<!-- TZappiello
-/
-## 💜 Oii, eu sou a Zallih
-
 <div>
 <img align="right" alt="zallih" width="135" src="https://cdn.discordapp.com/attachments/1128416328215167096/1157425285344534678/download20230905181423.png?ex=65eb7fcb&is=65d90acb&hm=fa8e5ecfad17ea5a07b2020e5360c14e4d9ade83c4488bcaf1adf0dd8b58a12f&">
   
