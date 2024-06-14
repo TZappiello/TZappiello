@@ -1,9 +1,7 @@
- <!-- <a href="https://www.facebook.com/profile.php?id=100011371610603" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="blank"></a> -->
-
 <div>
   
 - 💻 Me Chamo Thiago Zappiello <br>
-- 👩🏽‍💻 Atualmente atuo como desenvolvedor backend na empresa [CastGroup](https://www.castgroup.com.br/) <br>
+- 👩🏽‍💻 Atualmente atuo como desenvolvedor backend Java na empresa [CastGroup](https://www.castgroup.com.br/) <br>
 - 📖 Formado em Análise e Desenvolvimento de Sistemas  
 - 🎓 Sempre buscando aprimorar meus conhecimentos em tecnologia  
 </div>
