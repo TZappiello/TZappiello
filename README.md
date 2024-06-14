@@ -33,13 +33,12 @@
  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 <img alt="Docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 
- <img align="right" height="150" src="https://user-images.githubusercontent.com/86890231/140823979-15e76a25-5868-4b63-933b-f5cb557ea59a.gif">
+ <img align="right" height="140" src="https://user-images.githubusercontent.com/86890231/140823979-15e76a25-5868-4b63-933b-f5cb557ea59a.gif">
 <br><br>
 <h3>👨‍💻 Rede Sociai</h3>
 
   <a href="https://www.linkedin.com/in/thiago-zappiello/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
- <!-- <a href="[https://www.linkedin.com/in/thiago-zappiello/](https://www.linkedin.com/in/thiago-zappiello/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> -->
 <br><br>
 
 </div>
