@@ -35,7 +35,7 @@
 
  <img align="right" height="140" src="https://user-images.githubusercontent.com/86890231/140823979-15e76a25-5868-4b63-933b-f5cb557ea59a.gif">
 <br><br>
-<h3>👨‍💻 Rede Sociai</h3>
+<h3>👨‍💻 Rede Social</h3>
 
   <a href="https://www.linkedin.com/in/thiago-zappiello/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
