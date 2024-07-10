@@ -1,7 +1,7 @@
 <div> 
 - 💻 Me Chamo Thiago Zappiello <br>
 - 👩🏽‍💻 Atualmente atuo como desenvolvedor backend Java na empresa [CastGroup](https://www.castgroup.com.br/) <br>
-- 📖 Formado em Análise e Desenvolvimento de Sistemas na [Anhembi Morumbi](https://portal.anhembi.br/) <br>
+- 📖 Formado em Análise e Desenvolvimento de Sistemas
 - 🎓 Sempre buscando aprimorar meus conhecimentos em tecnologia
 </div>
 
