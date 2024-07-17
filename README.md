@@ -20,7 +20,7 @@
 <div>
 
   <h3> 🧐 Skills</h3>
-  <a href="https://github.com/Tzappiello">
+ <a href="https://github.com/Tzappiello">
  <a href="https://www.java.com/fr/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a>
  
@@ -40,4 +40,5 @@
   <a href="https://www.linkedin.com/in/thiago-zappiello/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 <br><br>
+
 </div>
