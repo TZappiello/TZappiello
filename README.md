@@ -45,7 +45,7 @@
 
  ## Total de visitas no meu perfil :detective: <br>
  <p align="center"> 
-   <img alingn="center" width="140" height="30" src="https://profile-counter.glitch.me/TZappiello/count.svg" />
+   <img alingn="center" width="150" height="35" src="https://profile-counter.glitch.me/TZappiello/count.svg" />
  </p>
 
 </div>
