@@ -43,7 +43,7 @@
 
 <p align="center"> 
 
- ## Total de visitas no meu perfil :detective: <br>
+ <h3>Total de visitas no meu perfil :detective: </h3> <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/TZappiello/count.svg" />
  </p>
