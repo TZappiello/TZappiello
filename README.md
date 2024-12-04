@@ -1,7 +1,7 @@
 <div> 
   
 - 💻 Me Chamo Thiago Zappiello <br>
-- 👩🏽‍💻 Atualmente atuo como desenvolvedor backend Java na empresa [Montreal](https://https://www.montreal.com.br/) <br>
+- 👩🏽‍💻 Atualmente atuo como desenvolvedor backend Java na empresa [Montreal](https://www.montreal.com.br/) <br>
 - 📖 Formado em Análise e Desenvolvimento de Sistemas Universidade [Anhembi Morumbi](https://portal.anhembi.br/) <br>
 - 🎓 Sempre buscando aprimorar meus conhecimentos em tecnologia
 </div>
