@@ -1,12 +1,12 @@
 <div align="center">
-  <h1>👋 Olá, sou Thiago Zappiello</h1>
+  <h1>👋 Hey there! I'm Thiago Zappiello</h1>
 </div>
 
 <div> 
-  - 💻 Desenvolvedor Backend Java com foco em microsserviços e arquitetura limpa<br>
-  - 👨‍💼 Atualmente atuo como desenvolvedor backend Java na <a href="https://www.avanade.com/pt-br/" target="_blank">Avanade</a> <br>
-  - 🎓 Formado em Análise e Desenvolvimento de Sistemas pela <a href="https://portal.anhembi.br/" target="_blank">Anhembi Morumbi</a> <br>
-  - 📘 Sempre buscando aprimorar meus conhecimentos em tecnologia e boas práticas de desenvolvimento
+  - 💻 I'm a Java Backend Developer focused on microservices and clean architecture<br>
+  - 👨‍💼 Currently working at <a href="https://www.avanade.com/pt-br/" target="_blank">Avanade</a><br>
+  - 🎓 Graduated in Software Development from <a href="https://portal.anhembi.br/" target="_blank">Anhembi Morumbi University</a><br>
+  - 🚀 Passionate about building scalable solutions and always improving my skills
 </div>
 
 <br>
@@ -18,7 +18,7 @@
 
 ---
 
-### 🛠️ Skills Principais
+### 🛠️ Tech Stack
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/>
@@ -32,7 +32,7 @@
 
 ---
 
-### 🌐 Redes Sociais
+### 🌐 Connect with Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/thiago-zappiello/" target="_blank">
@@ -42,7 +42,7 @@
 
 ---
 
-### 👁️ Contador de visitas
+### 👁️ Profile Visits
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/TZappiello/count.svg" width="150" height="35"/>
