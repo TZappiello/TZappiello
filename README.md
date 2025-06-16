@@ -5,7 +5,7 @@
 <div> 
   - 💻 Desenvolvedor Backend Java com foco em microsserviços e arquitetura limpa<br>
   - 👨‍💼 Atualmente atuo como desenvolvedor backend Java na [Avanade](https://www.avanade.com/pt-br/) <br>
-  - 🎓 Formado em Análise e Desenvolvimento de Sistemas pela [Universidade Anhembi Morumbi](https://portal.anhembi.br/) <br>
+  - 🎓 Formado em Análise e Desenvolvimento de Sistemas pela [Anhembi Morumbi](https://portal.anhembi.br/) <br>
   - 📘 Sempre buscando aprimorar meus conhecimentos em tecnologia e boas práticas de desenvolvimento
 </div>
 
