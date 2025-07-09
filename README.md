@@ -45,5 +45,5 @@
 ### 👁️ Profile Visits
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/TZappiello/count.svg" width="150" height="35"/>
+  <img src="https://komarev.com/ghpvc/?username=TZappiello&color=blueviolet" alt="Profile visitor counter"/>
 </div>
