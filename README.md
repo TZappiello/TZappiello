@@ -4,7 +4,7 @@
 
 <div> 
   - 💻 I'm a Java Backend Developer focused on microservices and clean architecture<br>
-  - 👨‍💼 Currently working at <a href="https://www.avanade.com/pt-br/" target="_blank">Avanade</a><br>
+  - 👨‍💼 Currently working at <a href="https://www.gft.com/br/pt/" target="_blank">GFT Technologies </a><br>
   - 🎓 Graduated in Software Development from <a href="https://portal.anhembi.br/" target="_blank">Anhembi Morumbi University</a><br>
   - 🚀 Passionate about building scalable solutions and always improving my skills
 </div>
