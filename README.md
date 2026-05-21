@@ -12,8 +12,16 @@
 <br>
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TZappiello&layout=compact&langs_count=7&theme=tokyonight"/>
-<img height="150em" src="https://github-readme-streak-stats-eight.vercel.app?user=TZappiello&theme=tokyonight&date_format=j%20M%5B%20Y%5D"/>
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TZappiello&layout=compact&langs_count=7&theme=tokyonight" alt="Top Langs" />
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-streak-stats-eight.vercel.app?user=TZappiello&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
