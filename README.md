@@ -6,7 +6,7 @@
   - 💻 I'm a Java Backend Developer focused on microservices and clean architecture<br>
   - 👨‍💼 Currently working at <a href="https://www.gft.com/br/pt/" target="_blank">GFT Technologies </a><br>
   - 🎓 Graduated in Software Development from <a href="https://portal.anhembi.br/" target="_blank">Anhembi Morumbi University</a><br>
-  - 📚 Currently pursuing an MBA in Data Science, Artificial Intelligence and Analytics at <a href="[https://mba.esalq.usp.br/](https://mbauspesalq.com/?tracking=&utm_campaign=23926122874&utm_adgroup=&creative=&keyword=&matchtype=&device=c&gclid=Cj0KCQjwzsjVBhC3ARIsALnMv4m7PqXxGhPwQP1oAXLEDOJXzcEBaTRrJmL66s4iZ8sA1Xe6K8p2vAAaAgutEALw_wcB&placement=&target=&gad_source=1&gad_campaignid=23921618282&gbraid=0AAAAADn9sfWPAXxjEYLOt7LcJyvwCHCgH&gclid=Cj0KCQjwzsjVBhC3ARIsALnMv4m7PqXxGhPwQP1oAXLEDOJXzcEBaTRrJmL66s4iZ8sA1Xe6K8p2vAAaAgutEALw_wcB)" target="_blank">MBA USP/Esalq</a><br>
+  - 📚 Currently pursuing an MBA in Data Science, Artificial Intelligence and Analytics at <a href="https://mbauspesalq.com/" target="_blank">MBA USP/Esalq</a><br>
   - 🚀 Passionate about building scalable solutions and always improving my skills
 </div>
 
